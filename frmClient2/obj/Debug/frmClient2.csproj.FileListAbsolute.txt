@@ -1,0 +1,12 @@
+C:\Users\Toshiba\Desktop\frmClient2\bin\Debug\frmClient2.exe.config
+C:\Users\Toshiba\Desktop\frmClient2\bin\Debug\frmClient2.exe
+C:\Users\Toshiba\Desktop\frmClient2\bin\Debug\frmClient2.pdb
+C:\Users\Toshiba\Desktop\frmClient2\bin\Debug\SimpleTCP.dll
+C:\Users\Toshiba\Desktop\frmClient2\obj\Debug\frmClient2.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\frmClient2\obj\Debug\frmClient2.frmClient2.resources
+C:\Users\Toshiba\Desktop\frmClient2\obj\Debug\frmClient2.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\frmClient2\obj\Debug\frmClient2.csproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\frmClient2\obj\Debug\frmClient2.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\frmClient2\obj\Debug\frmClient2.csproj.CopyComplete
+C:\Users\Toshiba\Desktop\frmClient2\obj\Debug\frmClient2.exe
+C:\Users\Toshiba\Desktop\frmClient2\obj\Debug\frmClient2.pdb
